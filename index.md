@@ -63,7 +63,7 @@ The Delta Shelter is located in the rural wilderness of eastern Washington near 
 
 ![Delta Shelter Site Plan](https://raw.githubusercontent.com/trejojess/delta-shelter/master/siteplan.png "design1")
 
-The satellite image above shows the general site location of the Delta Shelter indicated by the blue arrow. The arrow in yellow points to the Rolling Huts, which is a hotel designed by the same architect. This image as well as the site plan image demonstrate the environmental challenge that came with building a cabin so close to a seasonally flooding river.
+The satellite image above shows the general site location of the Delta Shelter indicated by the blue arrow. The arrow in yellow points to the Rolling Huts, which is a hotel designed by the same architect. This image as well as the site plan image demonstrate the environmental challenge that came with building a cabin so close to a seasonally flooding river. [[2](https://trejojess.github.io/delta-shelter/bib#2)]
 
 --- 
 
@@ -109,7 +109,7 @@ The interior of the cabin was decoreated by Debbie Kennedy, who works with Kundi
 
 ![Delta Shelter Interior 2](https://images.adsttc.com/media/images/5721/6687/e58e/cebd/1700/002c/slideshow/03036_00_N27_medium.jpg?1461806713 "interior2")
 In this last image we can see the exposed mechanical design of the shudders. The large metal "gizmo" or wheel that controls the shutters is characteristic of Kundig's affinity toward industrial imagery. 
-
+[[2](https://trejojess.github.io/delta-shelter/bib#2)][[4](https://trejojess.github.io/delta-shelter/bib#4)]
 
 
 <!-- <h1 class="center" >Architect</h1> -->
@@ -118,12 +118,12 @@ In this last image we can see the exposed mechanical design of the shudders. The
 ![Tom Kundig](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tom_Kundig.jpg/480px-Tom_Kundig.jpg "Tom Kundig")
 
 ### Bio
-Tom Kundig is a distinguished American architect and owner of the Seattle-based firm, Olson Kundig Architects. He has won many awards, including  many American Institute of Architects awards, as well as the prestigious National Design Award in Architecture Design (2008) from the Smithsonian Cooper-Hewitt National Design Museum.
+Tom Kundig is a distinguished American architect and owner of the Seattle-based firm, Olson Kundig Architects. He has won many awards, including  many American Institute of Architects awards, as well as the prestigious National Design Award in Architecture Design (2008) from the Smithsonian Cooper-Hewitt National Design Museum. [[4](https://trejojess.github.io/delta-shelter/bib#4)]
 
 ### Print Sources
 
 ##### Tome Kundig: Houses
-The book features magnificent images of the Delta Shelter within it’s scenic backdrops of wilderness. It highlights key features of the design as direct responses to the nature surrounding it such as the stilts the building sits on as well as its large open windows operated by a wheel operated shutter system. It closes with a refrain by Rick Joy articulating Kundig's motifs and style.[[3](https://trejojess.github.io/delta-shelter/bib#3)]
+The book features magnificent images of the Delta Shelter within it’s scenic backdrops of wilderness. It highlights key features of the design as direct responses to the nature surrounding it such as the stilts the building sits on as well as its large open windows operated by a wheel operated shutter system. It closes with a refrain by Rick Joy articulating Kundig's motifs and style.[[2](https://trejojess.github.io/delta-shelter/bib#2)]
 
 ##### Architectural Record: American Institute of Architects Award
 The architectural record features an award given to the Delta Shelter by The AIA Housing Committee.The award contains a summary that highlights the impressions from the judges, appreciating its gorgeous design and harmony with nature. The judges also valued the unique mechanical design of the shutters, praising its ability to completely open the space to and protect itself against the wilderness. [[7](https://trejojess.github.io/delta-shelter/bib#7)]
@@ -148,10 +148,10 @@ In this interview by the Architectural Record, I learned a few important things 
 Reading a blog description of the Delta Shelter, I learned how the careful design of the building took into consideration the walking patterns of multiple people in such a tiny space. With a footprint of 200 square feet, the building was with a circulation pattern that allowed for easy access to the entire cabin without congesting the sleeping level. The blogger ends by stating “the Delta Shelter is made to harmonize with the simplicity of its surroundings.” I would have to agree with her statement, as the color palette and rugged material usage fits well with the rural Washington scenery. However, I would qualify that the sharp, ordered, geometric design of the house contrasts heavily with the chaotic and organic forest landscape. This balance between camouflage and juxtaposition is what stands out most for me. 
 
 
-
 ##### Delta Shelter Walkthrough Video
 [![Delta Shelter Youtube Tour](http://img.youtube.com/vi/nQ39NL4z8-0/0.jpg)](https://youtu.be/nQ39NL4z8-0?t=556)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
+While watching this video featuring the inside of the Delta Shelter I was able to observe the exposed mechanism used to open and close the shutters of the cabin as well as gain an understanding of the force needed to operate it.
+
 
 ### Sketch
 
