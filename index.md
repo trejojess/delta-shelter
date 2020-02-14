@@ -16,7 +16,7 @@
 <h4 class="center">  by Jessica Trejo </h3> -->
 
 # Scavenger Hunt
-### by Jessica Trejo 
+#### by Jessica Trejo 
 
 ---
 
