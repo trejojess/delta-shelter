@@ -23,10 +23,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 ![alt text](https://raw.githubusercontent.com/trejojess/delta-shelter/master/deltasheltergps.PNG "Delta Shelter")
 
 
+## Delta Shelter
+
+### Diagrams
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
 
 
-## Exterior
+### Exterior
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. 
 
 
@@ -34,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 
 
-## Interior 
+### Interior 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 
@@ -44,13 +48,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 ![Tom Kundig](https://upload.wikimedia.org/wikipedia/commons/a/aa/Tom_Kundig.jpg "Tom Kundig")
 
+### Bio
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
-## Diagrams
+
+
+## Personal Perspective
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
-## Impressions
+#### Response To Media
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
+
+### Sketch
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem.
+
+#### Purpose
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. 
+
+#### Program
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. 
+
+#### Users
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. 
 
 [![Delta Shelter Youtube Tour](http://img.youtube.com/vi/nQ39NL4z8-0/0.jpg)](https://youtu.be/nQ39NL4z8-0?t=556)
 
@@ -59,17 +78,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 # Bibliography
 
-
 > Fracalossi, Igor. “Delta Shelter / Olson Kundig.” ArchDaily, ArchDaily, 12 Mar. 2012, www.archdaily.com/215448/delta-shelter-olson-kundig-architects.
  
- > Ngo, Dung. Tom Kundig: Houses. Princeton Architectural Press, 2012.
+> Ngo, Dung. Tom Kundig: Houses. Princeton Architectural Press, 2012.
 
- > Kundig, Tom. Tom Kundig: Houses 2. Princeton Architectural Press, 2012.
+> Kundig, Tom. Tom Kundig: Houses 2. Princeton Architectural Press, 2012.
 
 > “Olson Kundig - A Collaborative Global Design Practice Whose Work Expands the Context of Built and Natural Landscapes.” - A Collaborative Global Design Practice Whose Work Expands the Context of Built and Natural Landscapes., Olson Kundig, 2016, olsonkundig.com/.
 
 > Murdock, James. “The ArchRecord Interview: Tom Kundig.” Architectural Record RSS, Architectural Record, 18 Nov. 2015, www.architecturalrecord.com/articles/6506-the-archrecord-interview-tom-kundig.
 
 > Moody, Fred. “The Natural.” Seattle Met, Seattle Met, 25 Oct. 2016, www.seattlemet.com/home-and-real-estate/2009/11/architecture-tom-kundig-0606.
-
-
