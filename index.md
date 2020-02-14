@@ -84,7 +84,7 @@ The satellite image above shows the general site location of the Delta Shelter i
 
 
 ### Exterior
-#####Building Materials: 
+##### Building Materials: 
 __Steel__: _columns_, _shutters_, _stairs_, _fasteners_ 
 __Wood__: _roof_ _panels_
 
