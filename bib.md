@@ -24,4 +24,7 @@ Kieran, Christopher. “Project: Delta Shelter.” Architectural Record, vol. 19
 ##### 8
 Dispenza, Kristin. “House of the Month: The Versatile Delta Shelter.” Buildipedia, 26 June 2011, buildipedia.com/at-home/design-remodeling/house-of-the-month-the-versatile-delta-shelter.
 
+##### 9
+Taylor-Hochberg, Amelia. “Tom Kundig Interviewed by The Wall Street Journal: ‘He Always Starts with the Idea of Intimacy.’” Archinect, 29 Oct. 2015, archinect.com/news/article/140008646/tom-kundig-interviewed-by-the-wall-street-journal-he-always-starts-with-the-idea-of-intimacy.
+
 
