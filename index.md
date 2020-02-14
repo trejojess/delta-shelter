@@ -25,7 +25,7 @@
  - [Architecture](https://trejojess.github.io/delta-shelter/#architecture)
  - [Architect](https://trejojess.github.io/delta-shelter/#architect)
  - [Personal Perspective](https://trejojess.github.io/delta-shelter/#personal-perspective)
- - [Bibliography](https://trejojess.github.io/delta-shelter/#bibliography)
+ - [Bibliography](https://trejojess.github.io/delta-shelter/bib)
 
 
 
