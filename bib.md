@@ -21,4 +21,7 @@ Moody, Fred. “The Natural.” Seattle Met, Seattle Met, 25 Oct. 2016, www.seat
 ##### 7
 Kieran, Christopher. “Project: Delta Shelter.” Architectural Record, vol. 195, no. 7, McGraw Hill Publications Company, July 2007, Print.
 
+##### 8
+Dispenza, Kristin. “House of the Month: The Versatile Delta Shelter.” Buildipedia, 26 June 2011, buildipedia.com/at-home/design-remodeling/house-of-the-month-the-versatile-delta-shelter.
+
 
