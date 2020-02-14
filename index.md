@@ -53,7 +53,7 @@ _Date of Construction_: **1998 - 2002**
 
 ### Background
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
+Delta Shelter is a cabin designed by Tom Kundig of Olson Kundig for Seattle dentist Dr. Michal Friedrich. Construction started in 1998 and was completed in 2002. 
 
 #### Location
 
@@ -84,13 +84,18 @@ The satellite image above shows the general site location of the Delta Shelter i
 
 
 ### Exterior
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. 
+#####Building Materials: 
+__Steel__: _columns_, _shutters_, _stairs_, _fasteners_ 
+__Wood__: _roof_ _panels_
+
+![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/02_03036_00_N18-1413x1440.jpg "Delta Shelter 2")
 
 
 ![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/01_03036_00_N92-2160x1440.jpg "Delta Shelter")
-![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/02_03036_00_N18-1413x1440.jpg "Delta Shelter 2")
-![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/06_03036_00_N9-1440x1362.jpg "Delta Shelter 2")
+The large windows open up on all four sides of the building, giving a 360 degree field of view of the scenic east Washington landscape. When the windows open, light escapes on all sides, like a lighthouse or watchtower in the wilderness. 
 
+![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/06_03036_00_N9-1440x1362.jpg "Delta Shelter 2")
+The untreated steel encasing the Delta Shelter on all four sides gives way to its unique raw coloring meant to age naturally and change over time. 
 
 ### Interior 
 The interior of the cabin was decoreated by Debbie Kennedy, who works with Kundig at Olson Kundig. 
@@ -105,7 +110,7 @@ The interior of the cabin was decoreated by Debbie Kennedy, who works with Kundi
 ![Delta Shelter Interior 2](https://images.adsttc.com/media/images/5721/6687/e58e/cebd/1700/002c/slideshow/03036_00_N27_medium.jpg?1461806713 "interior2")
 In this last image we can see the exposed mechanical design of the shudders. The large metal "gizmo" or wheel that controls the shutters is characteristic of Kundig's affinity toward industrial imagery. 
 
----
+
 
 <!-- <h1 class="center" >Architect</h1> -->
 ## Architect
@@ -114,6 +119,16 @@ In this last image we can see the exposed mechanical design of the shudders. The
 
 ### Bio
 Tom Kundig is a distinguished American architect and owner of the Seattle-based firm, Olson Kundig Architects. He has won many awards, including  many American Institute of Architects awards, as well as the prestigious National Design Award in Architecture Design (2008) from the Smithsonian Cooper-Hewitt National Design Museum.
+
+### Print Sources
+
+##### Tome Kundig: Houses
+The book features magnificent images of the Delta Shelter within it’s scenic backdrops of wilderness. It highlights key features of the design as direct responses to the nature surrounding it such as the stilts the building sits on as well as its large open windows operated by a wheel operated shutter system. It closes with a refrain by Rick Joy articulating Kundig's motifs and style.[[3](https://trejojess.github.io/delta-shelter/bib#3)]
+
+##### Architectural Record: American Institute of Architects Award
+The architectural record features an award given to the Delta Shelter by The AIA Housing Committee.The award contains a summary that highlights the impressions from the judges, appreciating its gorgeous design and harmony with nature. The judges also valued the unique mechanical design of the shutters, praising its ability to completely open the space to and protect itself against the wilderness. [[7](https://trejojess.github.io/delta-shelter/bib#7)]
+
+
 
 ---
 
