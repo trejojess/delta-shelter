@@ -37,8 +37,8 @@
 
 ## Delta Shelter
 
-![alt text](https://www.homedezen.com/wp-content/uploads/2015/04/Delta-Shelter-by-Olson-Kundig-Architects-03.jpg "Delta Shelter")
-
+![Shelter in winter](https://olsonkundig.com/wp-content/uploads/2015/04/15_03036_00_N83-2160x1440.jpg )
+[[2](https://trejojess.github.io/delta-shelter/bib#2)]
 
 #### Basic Facts
 
@@ -81,7 +81,7 @@ The first image is a satellite image showing the general site location of the De
 
 ##### Building Facades
 ![Delta Shelter Design 3](https://raw.githubusercontent.com/trejojess/delta-shelter/master/sideview.PNG "design3")
-
+[[2](https://trejojess.github.io/delta-shelter/bib#2)]
 
 
 ### Exterior
@@ -118,7 +118,8 @@ In this last image we can see the exposed mechanical design of the shutters. The
 <!-- <h1 class="center" >Architect</h1> -->
 ## Architect
 
-![Tom Kundig](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tom_Kundig.jpg/480px-Tom_Kundig.jpg "Tom Kundig")
+![Tom Kundig](https://images.dwell.com/photos-6063391372700811264/6133530330935418880-large/architect-tom-kundig-in-his-studio.jpg  "Tom Kundig")
+[[9](https://trejojess.github.io/delta-shelter/bib#9)]
 
 ### Bio
 Tom Kundig is a distinguished American architect and owner of the Seattle-based firm, Olson Kundig Architects. He has won many awards, including  many American Institute of Architects awards, as well as the prestigious National Design Award in Architecture Design (2008) from the Smithsonian Cooper-Hewitt National Design Museum. [[4](https://trejojess.github.io/delta-shelter/bib#4)]
@@ -129,7 +130,7 @@ Tom Kundig is a distinguished American architect and owner of the Seattle-based 
 The book features magnificent images of the Delta Shelter within it’s scenic backdrops of wilderness. It highlights key features of the design as direct responses to the nature surrounding it such as the stilts the building sits on as well as its large open windows controlled by a wheel operated shutter system. It closes with a refrain by Rick Joy articulating Kundig's motifs and style.[[2](https://trejojess.github.io/delta-shelter/bib#2)]
 
 ##### Architectural Record: American Institute of Architects Award
-The architectural record features an award given to the Delta Shelter by The AIA Housing Committee. The award contains a summary that highlights the impressions from the judges, appreciating its gorgeous design and harmony with nature. The judges also valued the unique mechanical design of the shutters, praising its ability to completely open the space to the wilderness outside and protecting it when needed. [[7](https://trejojess.github.io/delta-shelter/bib#7)]
+The architectural record features an award given to the Delta Shelter by The AIA Housing Committee. The award contains a summary that highlights the impressions from the judges, appreciating its gorgeous design and harmony with nature. The judges also valued the unique mechanical design of the shutters, praising its ability to completely open the space to the wilderness outside and to protect it from the wilderness when needed. [[7](https://trejojess.github.io/delta-shelter/bib#7)]
 
 
 ---
@@ -152,6 +153,7 @@ Reading a blog description of the Delta Shelter, I learned how the careful desig
 
 ##### Delta Shelter Walkthrough Video
 [![Delta Shelter Youtube Tour](http://img.youtube.com/vi/nQ39NL4z8-0/0.jpg)](https://youtu.be/nQ39NL4z8-0?t=556)
+
 While watching this video featuring the inside of the Delta Shelter, I was able to observe the exposed mechanism used to open and close the shutters of the cabin as well as gain an understanding of the force needed to operate it.
 
 ##### Photo Cache Impressions
