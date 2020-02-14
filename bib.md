@@ -1,10 +1,10 @@
 # Bibliography
 
-##### 1 
+##### 1  
 Fracalossi, Igor. “Delta Shelter / Olson Kundig.” ArchDaily, ArchDaily, 12 Mar. 2012, www.archdaily.com/215448/delta-shelter-olson-kundig-architects.
  
 ##### 2 
-Ngo, Dung. Tom Kundig: Houses. Princeton Architectural Press, 2012.
+Ngo, Dung., and Tom. Kundig. Tom Kundig : Houses / Dung Ngo, Editor ; with Contributions by Steven Holl, Rick Joy, Billie Tsien. New York: Princeton Architectural Press, 2006. Print.
 
 ##### 3
 Kundig, Tom. Tom Kundig: Houses 2. Princeton Architectural Press, 2012.
@@ -17,5 +17,8 @@ Murdock, James. “The ArchRecord Interview: Tom Kundig.” Architectural Record
 
 ##### 6
 Moody, Fred. “The Natural.” Seattle Met, Seattle Met, 25 Oct. 2016, www.seattlemet.com/home-and-real-estate/2009/11/architecture-tom-kundig-0606.
+
+##### 7
+Kieran, Christopher. “Project: Delta Shelter.” Architectural Record, vol. 195, no. 7, McGraw Hill Publications Company, July 2007, Print.
 
 
