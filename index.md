@@ -15,7 +15,7 @@
 <!-- <h1 class="center" >Delta Shelter Scavenger Hunt</h1>
 <h4 class="center">  by Jessica Trejo </h3> -->
 
-#Scavenger Hunt
+# Scavenger Hunt
 ### by Jessica Trejo 
 
 ---
@@ -54,7 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 <!-- <h1 class="center" >Architecture</h1> -->
 ## Architecture
----
 
 ### Diagrams
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
@@ -79,7 +78,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 <!-- <h1 class="center" >Architect</h1> -->
 ## Architect
----
 
 ![Tom Kundig](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tom_Kundig.jpg/480px-Tom_Kundig.jpg "Tom Kundig")
 
@@ -90,7 +88,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 <!-- <h1 class="center" >Personal Perspective</h1> -->
 ## Personal Perspective
----
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
@@ -115,7 +112,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 ## Bibliography
 
----
 
 > Fracalossi, Igor. “Delta Shelter / Olson Kundig.” ArchDaily, ArchDaily, 12 Mar. 2012, www.archdaily.com/215448/delta-shelter-olson-kundig-architects.
  
