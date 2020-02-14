@@ -94,10 +94,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 ### Interior 
 The interior of the cabin was decoreated by Debbie Kennedy, who works with Kundig at Olson Kundig. 
-#####Master Bedroom - Sleeping Floor
+##### Master Bedroom - Sleeping Floor
 ![Delta Shelter Interior 3](https://raw.githubusercontent.com/trejojess/delta-shelter/master/interior3.jpg "interior3")
 
-#####Kitchen - Living Floor
+##### Kitchen - Living Floor
 ![Delta Shelter Interior 1](https://images.adsttc.com/media/images/5721/66af/e58e/cebd/1700/002d/slideshow/03036_00_N35_medium.jpg?1461806753 "interior1")
 
 ##### Living Room - Living Floor
