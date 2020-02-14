@@ -88,17 +88,19 @@ The satellite image above shows the general site location of the Delta Shelter i
 __Steel__: _columns_, _shutters_, _stairs_, _fasteners_ 
 __Wood__: _roof_ _panels_
 
+##### Perspective View - Entrance
 ![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/02_03036_00_N18-1413x1440.jpg "Delta Shelter 2")
 
-
+##### Side View - Open Shutters 
 ![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/01_03036_00_N92-2160x1440.jpg "Delta Shelter")
 The large windows open up on all four sides of the building, giving a 360 degree field of view of the scenic east Washington landscape. When the windows open, light escapes on all sides, like a lighthouse or watchtower in the wilderness. 
 
+##### Side View - Closed Shutters 
 ![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/06_03036_00_N9-1440x1362.jpg "Delta Shelter 2")
 The untreated steel encasing the Delta Shelter on all four sides gives way to its unique raw coloring meant to age naturally and change over time. 
 
 ### Interior 
-The interior of the cabin was decoreated by Debbie Kennedy, who works with Kundig at Olson Kundig. 
+The interior of the cabin was decorated by Debbie Kennedy, who works with Kundig at Olson Kundig. 
 ##### Master Bedroom - Sleeping Floor
 ![Delta Shelter Interior 3](https://raw.githubusercontent.com/trejojess/delta-shelter/master/interior3.jpg "interior3")
 
@@ -108,7 +110,7 @@ The interior of the cabin was decoreated by Debbie Kennedy, who works with Kundi
 ##### Living Room - Living Floor
 
 ![Delta Shelter Interior 2](https://images.adsttc.com/media/images/5721/6687/e58e/cebd/1700/002c/slideshow/03036_00_N27_medium.jpg?1461806713 "interior2")
-In this last image we can see the exposed mechanical design of the shudders. The large metal "gizmo" or wheel that controls the shutters is characteristic of Kundig's affinity toward industrial imagery. 
+In this last image we can see the exposed mechanical design of the shutters. The large metal "gizmo" or wheel that controls the shutters is characteristic of Kundig's affinity toward industrial imagery. 
 [[2](https://trejojess.github.io/delta-shelter/bib#2)][[4](https://trejojess.github.io/delta-shelter/bib#4)]
 
 
@@ -138,13 +140,13 @@ To research more details about the Delta Shelter, I reviewed interviews, blogs a
 ##### Interview with SeattleMet
 > “When you’re inside,you want to feel that the building would just be the frame or the background to your experience of the landscape.” - Tom Kundig
 
-A Seattle reporter interviewed Kundig on his inspiration for Delta Shelter, among other topics. Kundig elaborates on the history of the project, and the effect the location has on architecture. He explains “ it’s the local culture, the local weather; it’s the local structural material, systems, the local craft base—all of these things…” that influence architecture. Kundig later discusses his use of contraptions and ‘gizmos’ in his designs and the origin of his affinity toward mechanical imagery. 
+A Seattle reporter interviewed Kundig on his inspiration for Delta Shelter, among other topics. Kundig elaborates on the history of the project, and the effect the location has on architecture. He explains “ it’s the local culture, the local weather; it’s the local structural material, systems, the local craft base—all of these things…” that influence architecture. Kundig later discusses his use of contraptions and ‘gizmos’ in his designs and the origin of his affinity toward mechanical imagery. [[2](https://trejojess.github.io/delta-shelter/bib#2)]
 
 ##### Interview with ArchRecord
-In this interview by the Architectural Record, I learned a few important things from Tom Kundig and his perspective. First is the impact that light has on architecture. Kundig believes that “architecture is about the manipulation of light” and that the usage of natural and artificial light has a significant impact on the function of a building. Secondly, I learned more about what influences Kundig when designing residences. He shares that “residential work really is one of those sort of fundamental, primeval needs that we have as an animal.” He believes that this essential human need for shelter determines the foundations for the expected function of a home, and these expectations also influence the design of more public buildings. Lastly, Kundig ends the interview by commenting on how the background landscape, whether urban or rural, influences a building. He comments that an architect needs to have a holistic understanding of a landscape in order to effectively design a building. By understanding the natural and cultural forces at play, an architect can design a meaningful building that meshes into the landscape.
+In this interview by the Architectural Record, I learned a few important things from Tom Kundig and his perspective. First is the impact that light has on architecture. Kundig believes that “architecture is about the manipulation of light” and that the usage of natural and artificial light has a significant impact on the function of a building. Secondly, I learned more about what influences Kundig when designing residences. He shares that “residential work really is one of those sort of fundamental, primeval needs that we have as an animal.” He believes that this essential human need for shelter determines the foundations for the expected function of a home, and these expectations also influence the design of more public buildings. Lastly, Kundig ends the interview by commenting on how the background landscape, whether urban or rural, influences a building. He comments that an architect needs to have a holistic understanding of a landscape in order to effectively design a building. By understanding the natural and cultural forces at play, an architect can design a meaningful building that meshes into the landscape.[[6](https://trejojess.github.io/delta-shelter/bib#6)]
 
 ##### Buildipedia Blog Article
-Reading a blog description of the Delta Shelter, I learned how the careful design of the building took into consideration the walking patterns of multiple people in such a tiny space. With a footprint of 200 square feet, the building was with a circulation pattern that allowed for easy access to the entire cabin without congesting the sleeping level. The blogger ends by stating “the Delta Shelter is made to harmonize with the simplicity of its surroundings.” I would have to agree with her statement, as the color palette and rugged material usage fits well with the rural Washington scenery. However, I would qualify that the sharp, ordered, geometric design of the house contrasts heavily with the chaotic and organic forest landscape. This balance between camouflage and juxtaposition is what stands out most for me. 
+Reading a blog description of the Delta Shelter, I learned how the careful design of the building took into consideration the walking patterns of multiple people in such a tiny space. With a footprint of 200 square feet, the building was with a circulation pattern that allowed for easy access to the entire cabin without congesting the sleeping level. The blogger ends by stating “the Delta Shelter is made to harmonize with the simplicity of its surroundings.” I would have to agree with her statement, as the color palette and rugged material usage fits well with the rural Washington scenery. However, I would qualify that the sharp, ordered, geometric design of the house contrasts heavily with the chaotic and organic forest landscape. This balance between camouflage and juxtaposition is what stands out most for me. [[8](https://trejojess.github.io/delta-shelter/bib#8)]
 
 
 ##### Delta Shelter Walkthrough Video
