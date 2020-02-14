@@ -1,29 +1,60 @@
 
-# Delta Shelter Scavenger Hunt
+<style> 
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+     .center {
+        display: block;
+        text-align: center;
+     }
+</style>
 
-#### by Jessica Trejo
 
+<!-- <h1 class="center" >Delta Shelter Scavenger Hunt</h1>
+<h4 class="center">  by Jessica Trejo </h3> -->
+
+#Scavenger Hunt
+### by Jessica Trejo 
+
+---
+
+##### Table of Contents
+ - [Delta Shelter](https://trejojess.github.io/delta-shelter/#architect)
+ - [Architecture](https://trejojess.github.io/delta-shelter/#architecture)
+ - [Architect](https://trejojess.github.io/delta-shelter/#architect)
+ - [Personal Perspective](https://trejojess.github.io/delta-shelter/#personal-perspective)
+ - [Bibliography](https://trejojess.github.io/delta-shelter/#bibliography)
+
+
+
+---
+
+## Delta Shelter
 
 ![alt text](https://www.homedezen.com/wp-content/uploads/2015/04/Delta-Shelter-by-Olson-Kundig-Architects-03.jpg "Delta Shelter")
 
+### Background
 
-### Basic Facts
+#### Basic Facts
+
 _Name_: **Delta Shleter**
 _Location_: **Mazama, Washington**
 _Architect_: **Tom Kundig**
 _Date of Construction_: **2002**
 
-
-
-## Background
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
 #### Location
 
 ![alt text](https://raw.githubusercontent.com/trejojess/delta-shelter/master/deltasheltergps.PNG "Delta Shelter")
 
+--- 
 
-## Delta Shelter
+<!-- <h1 class="center" >Architecture</h1> -->
+## Architecture
+---
 
 ### Diagrams
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
@@ -44,16 +75,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 ![alt text](https://olsonkundig.com/wp-content/uploads/2015/04/10_03036_00_N27-2160x1684.jpg "Delta Shelter")
 
-## Architect
+---
 
-![Tom Kundig](https://upload.wikimedia.org/wikipedia/commons/a/aa/Tom_Kundig.jpg "Tom Kundig")
+<!-- <h1 class="center" >Architect</h1> -->
+## Architect
+---
+
+![Tom Kundig](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tom_Kundig.jpg/480px-Tom_Kundig.jpg "Tom Kundig")
 
 ### Bio
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
+---
 
-
+<!-- <h1 class="center" >Personal Perspective</h1> -->
 ## Personal Perspective
+---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuada tristique laoreet in, tincidunt sit amet tortor. Maecenas purus turpis, facilisis ut libero at, condimentum dignissim sem. Nullam dictum sed leo eget porta. Morbi tristique a est in aliquet. Donec sed elit tristique, laoreet turpis id, condimentum sem. Curabitur interdum dui leo, ut posuere nulla dictum condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus risus sapien, fermentum vitae consequat quis, volutpat mollis purus.
 
 #### Response To Media
@@ -75,8 +113,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sem lectus, malesuad
 
 ---
 
+## Bibliography
 
-# Bibliography
+---
 
 > Fracalossi, Igor. “Delta Shelter / Olson Kundig.” ArchDaily, ArchDaily, 12 Mar. 2012, www.archdaily.com/215448/delta-shelter-olson-kundig-architects.
  
