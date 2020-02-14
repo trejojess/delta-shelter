@@ -129,7 +129,6 @@ The book features magnificent images of the Delta Shelter within it’s scenic b
 The architectural record features an award given to the Delta Shelter by The AIA Housing Committee.The award contains a summary that highlights the impressions from the judges, appreciating its gorgeous design and harmony with nature. The judges also valued the unique mechanical design of the shutters, praising its ability to completely open the space to and protect itself against the wilderness. [[7](https://trejojess.github.io/delta-shelter/bib#7)]
 
 
-
 ---
 
 <!-- <h1 class="center" >Personal Perspective</h1> -->
@@ -152,6 +151,10 @@ Reading a blog description of the Delta Shelter, I learned how the careful desig
 [![Delta Shelter Youtube Tour](http://img.youtube.com/vi/nQ39NL4z8-0/0.jpg)](https://youtu.be/nQ39NL4z8-0?t=556)
 While watching this video featuring the inside of the Delta Shelter I was able to observe the exposed mechanism used to open and close the shutters of the cabin as well as gain an understanding of the force needed to operate it.
 
+##### Photo Cache Impressions
+![photo-delta-shelter-1](https://live.staticflickr.com/2642/3802291241_895081519f_h.jpg "summer")
+![photo-delta-shelter-1](https://live.staticflickr.com/4104/5436963422_95261cccbc_b.jpg "winter")
+While viewing the candid photos of the Delta Shelter taken by others, I was able to grasp a relative scale of the building emphasizing its towering vertical height. Also, seeing the building in different seasons, I was able to see the rust that coats the outer walls change in tone and pattern, resembling a natural wood pattern. Lastly, I noticed the transparency of the building when the shutters are fully opened allow for full illumination via natural light. From the outside, you can see freely into the building, which further removes the separation between the inhabitant and the landscape.
 
 ### Sketch
 
